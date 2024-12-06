@@ -1,2 +1,0 @@
-- most important to show usage of API and backtesting.
-- can do cyrpto too.
