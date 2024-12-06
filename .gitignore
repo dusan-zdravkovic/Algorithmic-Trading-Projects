@@ -1,0 +1,16 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore virtual environments
+.env/
+*.conda
+
+# Ignore temporary or sensitive files in starter_files
+starter_files/temp_*
+
+# Ignore files in root directory
+ideas.txt
