@@ -14,3 +14,4 @@ starter_files/temp_*
 
 # Ignore files in root directory
 ideas.txt
+starter_files/my_secrets.py
